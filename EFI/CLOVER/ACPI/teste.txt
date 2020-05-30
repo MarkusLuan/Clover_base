@@ -1,0 +1,563 @@
+into Scope label _SB.PCI0.LPCB.H_EC insert
+ begin
+	Method (_Q00, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q00 enter")\n
+
+        	}\n
+	Method (_Q01, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q01 enter")\n
+
+        	}\n
+	Method (_Q02, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q02 enter")\n
+
+        	}\n
+	Method (_Q03, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q03 enter")\n
+
+        	}\n
+	Method (_Q04, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q04 enter")\n
+
+        	}\n
+	Method (_Q05, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q05 enter")\n
+
+        	}\n
+	Method (_Q06, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q06 enter")\n
+
+        	}\n
+	Method (_Q07, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q07 enter")\n
+
+        	}\n
+	Method (_Q08, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q08 enter")\n
+
+        	}\n
+	Method (_Q09, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q09 enter")\n
+
+        	}\n
+	Method (_Q0A, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q0A enter")\n
+
+        	}\n
+	Method (_Q0B, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q0B enter")\n
+
+        	}\n
+	Method (_Q0C, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q0C enter")\n
+
+        	}\n
+	Method (_Q0D, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q0D enter")\n
+
+        	}\n
+	Method (_Q0E, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q0E enter")\n
+
+        	}\n
+	Method (_Q0F, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q0F enter")\n
+
+        	}\n
+	Method (_Q10, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q10 enter")\n
+
+        	}\n
+	Method (_Q11, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q11 enter")\n
+
+        	}\n
+	Method (_Q12, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q12 enter")\n
+
+        	}\n
+	Method (_Q13, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q13 enter")\n
+
+        	}\n
+	Method (_Q14, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q14 enter")\n
+
+        	}\n
+	Method (_Q15, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q15 enter")\n
+
+        	}\n
+	Method (_Q16, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q16 enter")\n
+
+        	}\n
+	Method (_Q17, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q17 enter")\n
+
+        	}\n
+	Method (_Q18, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q18 enter")\n
+
+        	}\n
+	Method (_Q19, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q19 enter")\n
+
+        	}\n
+	Method (_Q1A, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q1A enter")\n
+
+        	}\n
+	Method (_Q1B, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q1B enter")\n
+
+        	}\n
+	Method (_Q1C, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q1C enter")\n
+
+        	}\n
+	Method (_Q1D, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q1D enter")\n
+
+        	}\n
+	Method (_Q1E, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q1E enter")\n
+
+        	}\n
+	Method (_Q1F, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q1F enter")\n
+
+        	}\n
+	Method (_Q20, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q20 enter")\n
+
+        	}\n
+	Method (_Q21, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q21 enter")\n
+
+        	}\n
+	Method (_Q22, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q22 enter")\n
+
+        	}\n
+	Method (_Q23, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q23 enter")\n
+
+        	}\n
+	Method (_Q24, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q24 enter")\n
+
+        	}\n
+	Method (_Q25, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q25 enter")\n
+
+        	}\n
+	Method (_Q26, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q26 enter")\n
+
+        	}\n
+	Method (_Q27, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q27 enter")\n
+
+        	}\n
+	Method (_Q28, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q28 enter")\n
+
+        	}\n
+	Method (_Q29, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q29 enter")\n
+
+        	}\n
+	Method (_Q2A, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q2A enter")\n
+
+        	}\n
+	Method (_Q2B, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q2B enter")\n
+
+        	}\n
+	Method (_Q2C, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q2C enter")\n
+
+        	}\n
+	Method (_Q2D, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q2D enter")\n
+
+        	}\n
+	Method (_Q2E, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q2E enter")\n
+
+        	}\n
+	Method (_Q2F, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q2F enter")\n
+
+        	}\n
+	Method (_Q30, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q30 enter")\n
+
+        	}\n
+	Method (_Q31, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q31 enter")\n
+
+        	}\n
+	Method (_Q32, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q32 enter")\n
+
+        	}\n
+	Method (_Q33, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q33 enter")\n
+
+        	}\n
+	Method (_Q34, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q34 enter")\n
+
+        	}\n
+	Method (_Q35, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q35 enter")\n
+
+        	}\n
+	Method (_Q36, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q36 enter")\n
+
+        	}\n
+	Method (_Q37, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q37 enter")\n
+
+        	}\n
+	Method (_Q38, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q38 enter")\n
+
+        	}\n
+	Method (_Q39, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q39 enter")\n
+
+        	}\n
+	Method (_Q3A, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q3A enter")\n
+
+        	}\n
+	Method (_Q3B, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q3B enter")\n
+
+        	}\n
+	Method (_Q3C, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q3C enter")\n
+
+        	}\n
+	Method (_Q3D, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q3D enter")\n
+
+        	}\n
+	Method (_Q3E, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q3E enter")\n
+
+        	}\n
+	Method (_Q3F, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q3F enter")\n
+
+        	}\n
+	Method (_Q40, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q40 enter")\n
+
+        	}\n
+	Method (_Q41, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q41 enter")\n
+
+        	}\n
+	Method (_Q42, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q42 enter")\n
+
+        	}\n
+	Method (_Q43, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q43 enter")\n
+
+        	}\n
+	Method (_Q44, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q44 enter")\n
+
+        	}\n
+	Method (_Q45, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q45 enter")\n
+
+        	}\n
+	Method (_Q46, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q46 enter")\n
+
+        	}\n
+	Method (_Q47, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q47 enter")\n
+
+        	}\n
+	Method (_Q48, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q48 enter")\n
+
+        	}\n
+	Method (_Q49, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q49 enter")\n
+
+        	}\n
+	Method (_Q4A, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q4A enter")\n
+
+        	}\n
+	Method (_Q4B, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q4B enter")\n
+
+        	}\n
+	Method (_Q4C, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q4C enter")\n
+
+        	}\n
+	Method (_Q4D, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q4D enter")\n
+
+        	}\n
+	Method (_Q4E, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q4E enter")\n
+
+        	}\n
+	Method (_Q4F, 0, Serialized)  // _Qxx: EC Query\n
+
+        	{\n
+
+            	\RMDT.P1 ("EC _Q4F enter")\n
+
+        	}\n
+end

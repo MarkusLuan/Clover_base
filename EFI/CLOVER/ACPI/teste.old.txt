@@ -1,0 +1,256 @@
+
+        Method (_Q0, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q0 enter")
+            \RMDT.P1 ("EC _Q0 exit")
+        }
+        Method (_Q1, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q1 enter")
+            \RMDT.P1 ("EC _Q1 exit")
+        }
+        Method (_Q2, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q2 enter")
+            \RMDT.P1 ("EC _Q2 exit")
+        }
+        Method (_Q3, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q3 enter")
+            \RMDT.P1 ("EC _Q3 exit")
+        }
+        Method (_Q4, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q4 enter")
+            \RMDT.P1 ("EC _Q4 exit")
+        }
+        Method (_Q5, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q5 enter")
+            \RMDT.P1 ("EC _Q5 exit")
+        }
+        Method (_Q6, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q6 enter")
+            \RMDT.P1 ("EC _Q6 exit")
+        }
+        Method (_Q7, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q7 enter")
+            \RMDT.P1 ("EC _Q7 exit")
+        }
+        Method (_Q8, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q8 enter")
+            \RMDT.P1 ("EC _Q8 exit")
+        }
+        Method (_Q9, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q9 enter")
+            \RMDT.P1 ("EC _Q9 exit")
+        }
+        Method (_Q10, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q10 enter")
+            \RMDT.P1 ("EC _Q10 exit")
+        }
+        Method (_Q11, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q11 enter")
+            \RMDT.P1 ("EC _Q11 exit")
+        }
+        Method (_Q12, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q12 enter")
+            \RMDT.P1 ("EC _Q12 exit")
+        }
+        Method (_Q13, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q13 enter")
+            \RMDT.P1 ("EC _Q13 exit")
+        }
+        Method (_Q14, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q14 enter")
+            \RMDT.P1 ("EC _Q14 exit")
+        }
+        Method (_Q15, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q15 enter")
+            \RMDT.P1 ("EC _Q15 exit")
+        }
+        Method (_Q16, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q16 enter")
+            \RMDT.P1 ("EC _Q16 exit")
+        }
+        Method (_Q17, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q17 enter")
+            \RMDT.P1 ("EC _Q17 exit")
+        }
+        Method (_Q18, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q18 enter")
+            \RMDT.P1 ("EC _Q18 exit")
+        }
+        Method (_Q19, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q19 enter")
+            \RMDT.P1 ("EC _Q19 exit")
+        }
+        Method (_Q20, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q20 enter")
+            \RMDT.P1 ("EC _Q20 exit")
+        }
+        Method (_Q21, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q21 enter")
+            \RMDT.P1 ("EC _Q21 exit")
+        }
+        Method (_Q22, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q22 enter")
+            \RMDT.P1 ("EC _Q22 exit")
+        }
+        Method (_Q23, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q23 enter")
+            \RMDT.P1 ("EC _Q23 exit")
+        }
+        Method (_Q24, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q24 enter")
+            \RMDT.P1 ("EC _Q24 exit")
+        }
+        Method (_Q25, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q25 enter")
+            \RMDT.P1 ("EC _Q25 exit")
+        }
+        Method (_Q26, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q26 enter")
+            \RMDT.P1 ("EC _Q26 exit")
+        }
+        Method (_Q27, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q27 enter")
+            \RMDT.P1 ("EC _Q27 exit")
+        }
+        Method (_Q28, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q28 enter")
+            \RMDT.P1 ("EC _Q28 exit")
+        }
+        Method (_Q29, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q29 enter")
+            \RMDT.P1 ("EC _Q29 exit")
+        }
+        Method (_Q30, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q30 enter")
+            \RMDT.P1 ("EC _Q30 exit")
+        }
+        Method (_Q31, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q31 enter")
+            \RMDT.P1 ("EC _Q31 exit")
+        }
+        Method (_Q32, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q32 enter")
+            \RMDT.P1 ("EC _Q32 exit")
+        }
+        Method (_Q33, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q33 enter")
+            \RMDT.P1 ("EC _Q33 exit")
+        }
+        Method (_Q34, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q34 enter")
+            \RMDT.P1 ("EC _Q34 exit")
+        }
+        Method (_Q35, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q35 enter")
+            \RMDT.P1 ("EC _Q35 exit")
+        }
+        Method (_Q36, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q36 enter")
+            \RMDT.P1 ("EC _Q36 exit")
+        }
+        Method (_Q37, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q37 enter")
+            \RMDT.P1 ("EC _Q37 exit")
+        }
+        Method (_Q38, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q38 enter")
+            \RMDT.P1 ("EC _Q38 exit")
+        }
+        Method (_Q39, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q39 enter")
+            \RMDT.P1 ("EC _Q39 exit")
+        }
+        Method (_Q40, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q40 enter")
+            \RMDT.P1 ("EC _Q40 exit")
+        }
+        Method (_Q41, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q41 enter")
+            \RMDT.P1 ("EC _Q41 exit")
+        }
+        Method (_Q42, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q42 enter")
+            \RMDT.P1 ("EC _Q42 exit")
+        }
+        Method (_Q43, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q43 enter")
+            \RMDT.P1 ("EC _Q43 exit")
+        }
+        Method (_Q44, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q44 enter")
+            \RMDT.P1 ("EC _Q44 exit")
+        }
+        Method (_Q45, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q45 enter")
+            \RMDT.P1 ("EC _Q45 exit")
+        }
+        Method (_Q46, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q46 enter")
+            \RMDT.P1 ("EC _Q46 exit")
+        }
+        Method (_Q47, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q47 enter")
+            \RMDT.P1 ("EC _Q47 exit")
+        }
+        Method (_Q48, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q48 enter")
+            \RMDT.P1 ("EC _Q48 exit")
+        }
+        Method (_Q49, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q49 enter")
+            \RMDT.P1 ("EC _Q49 exit")
+        }
+        Method (_Q50, 0, Serialized)  // _Qxx: EC Query
+        {
+            \RMDT.P1 ("EC _Q50 enter")
+            \RMDT.P1 ("EC _Q50 exit")
+        }
